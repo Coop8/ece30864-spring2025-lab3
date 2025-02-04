@@ -13,3 +13,7 @@
     Sprint review meeting: Were goals accomplished, product review, feedback from stakeholders
 
 (d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+    Epic: A large story that can be broken down into many different stories and often spans multiple sprints. This is usually a large feature implementation or whole project plan.
+    Story: A smaller feature that delivers value to the end user. These can normally be done in one sprint.
+    Bug: A defect or error in the product that results in unintentional behavior. These can range from product-breaking or very minor issues.
+    Task: A small specific action of work that is assigned to a worker and normally completed in a day or two. Not normally providing value to the end user, however, makes up a story with other tasks that will.
