@@ -5,6 +5,7 @@
           Lack of Documentation: Documentation is not a high priority in the Agile methodology, so this can result in confusing and messy projects.
 
 (b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+    A scrum master is responsible for keeping the team on track and adhering to agile methodoligies while the product owner is responsible for managing the scrum master, manage the product backlog, and create a product vision and roadmap.
 
 (c) What are 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
 
