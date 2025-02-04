@@ -1,4 +1,8 @@
 (a) What are some Pros and Cons of Agile development (vs non-Agile)? List 2 each.
+    Pros: Adaptability - Since the method focuses on iterative development the user can work with the customer throughout the development of the product.
+          Collaboration - It is easy to collaborate with other workers as the project is split up into chunks that can be worked on independently and then brought together.
+    Cons: Not Focused - Agile methodology tends to focus on numerous goals at once which can lead to lack of focus on certain key areas that need to be completed.
+          Lack of Documentation: Documentation is not a high priority in the Agile methodology, so this can result in confusing and messy projects.
 
 (b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 
