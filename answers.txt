@@ -8,5 +8,8 @@
     A scrum master is responsible for keeping the team on track and adhering to agile methodoligies while the product owner is responsible for managing the scrum master, manage the product backlog, and create a product vision and roadmap.
 
 (c) What are 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+    Sprint planning meeting: Goal of the sprint, prioritization of the issues on the backlog
+    Daily stand-up meetings: Daily progress on tasks and goals, any obstacles that may be halting progress
+    Sprint review meeting: Were goals accomplished, product review, feedback from stakeholders
 
 (d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA
